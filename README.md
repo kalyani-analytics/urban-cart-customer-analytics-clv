@@ -132,11 +132,14 @@ This dashboard segments customers based on Recency, Frequency, and Monetary valu
 •	Champions
 
 •	Loyal Customers
+
 •	At Risk Customers
+
 •	Lost Customers
 
 ## Insights:
 •	Enables targeted marketing campaigns
+
 •	Helps improve customer retention strategies
 
 
@@ -145,13 +148,17 @@ This dashboard segments customers based on Recency, Frequency, and Monetary valu
 ![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/7b9db2e0e8c7c0076fd6aa038d6214243ed2d291/images/Churn%20Prediction%20Dashboard.png)
 
 This dashboard focuses on identifying customers at risk of churn.
+
 Key Features:
 •	Customer segmentation (High, Medium, Low Risk)
+
 •	Churn distribution visualization
+
 •	Detailed customer-level data
 
 Insights:
 •	Helps identify high-risk customers
+
 •	Enables targeted retention strategies
 
 
@@ -161,14 +168,19 @@ Insights:
 
 
 This dashboard analyse marketing performance across different channels.
+
 Key Metrics:
 •	Total Revenue
+
 •	Marketing Spend
+
 •	Conversions
+
 •	Return on Investment (ROI)
 
 Insights:
 •	Identifies most effective marketing channels
+
 •	Helps optimize marketing budget allocation
 
 
@@ -177,13 +189,17 @@ Insights:
 ![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/7b9db2e0e8c7c0076fd6aa038d6214243ed2d291/images/Product%20Reccomdation%20dashboard.png)
 
 This dashboard provides insights into product performance and customer preferences.
+
 Key Features:
 •	Revenue by product category
+
 •	Customer segmentation by category
+
 •	Product-level performance metrics
 
 Insights:
 •	Helps identify top-performing products
+
 •	Supports cross-selling and upselling strategies
 
 
