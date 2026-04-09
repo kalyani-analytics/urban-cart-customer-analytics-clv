@@ -100,7 +100,8 @@ we can discover relationships between products and recommend items that customer
 ## 📊 Power BI Dashboards
 
 ## 🔹 Executive Dashboard
-
+## Dashboard Preview
+![Executive Dashboard](images/executive_dashboard.png)
 ## 🔹 Customer Segmentation
 
 ## 🔹 Churn Dashboard
