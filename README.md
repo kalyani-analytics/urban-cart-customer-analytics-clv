@@ -149,14 +149,14 @@ This dashboard segments customers based on Recency, Frequency, and Monetary valu
 
 This dashboard focuses on identifying customers at risk of churn.
 
-Key Features:
+## Key Features:
 •	Customer segmentation (High, Medium, Low Risk)
 
 •	Churn distribution visualization
 
 •	Detailed customer-level data
 
-Insights:
+## Insights:
 •	Helps identify high-risk customers
 
 •	Enables targeted retention strategies
@@ -169,7 +169,7 @@ Insights:
 
 This dashboard analyse marketing performance across different channels.
 
-Key Metrics:
+## Key Metrics:
 •	Total Revenue
 
 •	Marketing Spend
@@ -178,7 +178,7 @@ Key Metrics:
 
 •	Return on Investment (ROI)
 
-Insights:
+## Insights:
 •	Identifies most effective marketing channels
 
 •	Helps optimize marketing budget allocation
@@ -190,14 +190,14 @@ Insights:
 
 This dashboard provides insights into product performance and customer preferences.
 
-Key Features:
+## Key Features:
 •	Revenue by product category
 
 •	Customer segmentation by category
 
 •	Product-level performance metrics
 
-Insights:
+## Insights:
 •	Helps identify top-performing products
 
 •	Supports cross-selling and upselling strategies
