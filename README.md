@@ -99,24 +99,80 @@ we can discover relationships between products and recommend items that customer
 
 ## 📊 Power BI Dashboards
 
-## 🔹 Customer Analytics Executive Dashboard 
+## 🔹 Customer Analytics Executive Dashboard
+
 ![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/b828d589c88936cc83dc4a275fcb0a96ec0b2c20/images/Executive%20Dashboard.png)
+
+The Executive Dashboard provides a high-level overview of business performance.
+Key Metrics:
+•	Monthly Recurring Revenue (MRR)
+•	Customer Acquisition Cost (CAC)
+•	Customer Lifetime Value (CLV)
+•	Retention Rate
+•	Churn Percentage
+Insights:
+•	Helps stakeholders quickly assess overall business health
+•	Identifies trends in revenue and customer retention
 
 
 ## 🔹 Customer Segmentation Matrix (RFM Analysis) 
+
 ![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/7b9db2e0e8c7c0076fd6aa038d6214243ed2d291/images/RFM%20Analysis.png)
+
+This dashboard segments customers based on Recency, Frequency, and Monetary value.
+Key Segments:
+•	Champions
+•	Loyal Customers
+•	At Risk Customers
+•	Lost Customers
+Insights:
+•	Enables targeted marketing campaigns
+•	Helps improve customer retention strategies
 
 
 ## 🔹 Churn Prediction Dashboard 
+
 ![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/7b9db2e0e8c7c0076fd6aa038d6214243ed2d291/images/Churn%20Prediction%20Dashboard.png)
+
+This dashboard focuses on identifying customers at risk of churn.
+Key Features:
+•	Customer segmentation (High, Medium, Low Risk)
+•	Churn distribution visualization
+•	Detailed customer-level data
+Insights:
+•	Helps identify high-risk customers
+•	Enables targeted retention strategies
 
 
 ## 🔹 Marketing Attribution Dashboard 
+
 ![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/7b9db2e0e8c7c0076fd6aa038d6214243ed2d291/images/Marketing%20Atrribution%20Dashboard.png)
 
 
+This dashboard analyse marketing performance across different channels.
+Key Metrics:
+•	Total Revenue
+•	Marketing Spend
+•	Conversions
+•	Return on Investment (ROI)
+Insights:
+•	Identifies most effective marketing channels
+•	Helps optimize marketing budget allocation
+
+
 ## 🔹 Product Recommendation Dashboard 
+
 ![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/7b9db2e0e8c7c0076fd6aa038d6214243ed2d291/images/Product%20Reccomdation%20dashboard.png)
+
+This dashboard provides insights into product performance and customer preferences.
+Key Features:
+•	Revenue by product category
+•	Customer segmentation by category
+•	Product-level performance metrics
+Insights:
+•	Helps identify top-performing products
+•	Supports cross-selling and upselling strategies
+
 
 
 ## 💡 Key Insights
