@@ -110,6 +110,7 @@ Key Metrics:
 •	Customer Lifetime Value (CLV)
 •	Retention Rate
 •	Churn Percentage
+
 Insights:
 •	Helps stakeholders quickly assess overall business health
 •	Identifies trends in revenue and customer retention
@@ -125,6 +126,7 @@ Key Segments:
 •	Loyal Customers
 •	At Risk Customers
 •	Lost Customers
+
 Insights:
 •	Enables targeted marketing campaigns
 •	Helps improve customer retention strategies
@@ -139,6 +141,7 @@ Key Features:
 •	Customer segmentation (High, Medium, Low Risk)
 •	Churn distribution visualization
 •	Detailed customer-level data
+
 Insights:
 •	Helps identify high-risk customers
 •	Enables targeted retention strategies
@@ -155,6 +158,7 @@ Key Metrics:
 •	Marketing Spend
 •	Conversions
 •	Return on Investment (ROI)
+
 Insights:
 •	Identifies most effective marketing channels
 •	Helps optimize marketing budget allocation
@@ -169,6 +173,7 @@ Key Features:
 •	Revenue by product category
 •	Customer segmentation by category
 •	Product-level performance metrics
+
 Insights:
 •	Helps identify top-performing products
 •	Supports cross-selling and upselling strategies
