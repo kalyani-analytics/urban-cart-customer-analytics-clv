@@ -206,31 +206,48 @@ This dashboard provides insights into product performance and customer preferenc
 
 ## 💡 Key Insights
 Top customers generate most revenue
+
 High churn after initial purchases
+
 Some marketing channels perform better than others
+
 Repeat customers drive higher profitability
 
 ## 📈 Business Impact
 Improved customer targeting
+
 Better marketing budget allocation
+
 Increased customer retention
+
 Data-driven decision making
 
 ## 📂 Project Structure
 UrbanCart/
+
 │── data/
+
 │── etl/
+
 │── sql/
+
 │── dashboards/
+
 │── notebooks/
+
 │── docs/
 
 ## ▶️ How to Run
 Setup PostgreSQL database
+
 Load datasets
+
 Run ETL scripts (Python)
+
 Build data warehouse tables
+
 Connect Power BI to PostgreSQL
+
 Open dashboard
 
 ## 🧾 Conclusion
