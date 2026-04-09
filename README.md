@@ -104,14 +104,15 @@ we can discover relationships between products and recommend items that customer
 ![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/b828d589c88936cc83dc4a275fcb0a96ec0b2c20/images/Executive%20Dashboard.png)
 
 The Executive Dashboard provides a high-level overview of business performance.
-Key Metrics:
+
+## Key Metrics:
 •	Monthly Recurring Revenue (MRR)
 •	Customer Acquisition Cost (CAC)
 •	Customer Lifetime Value (CLV)
 •	Retention Rate
 •	Churn Percentage
 
-Insights:
+## Insights:
 •	Helps stakeholders quickly assess overall business health
 •	Identifies trends in revenue and customer retention
 
@@ -121,13 +122,14 @@ Insights:
 ![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/7b9db2e0e8c7c0076fd6aa038d6214243ed2d291/images/RFM%20Analysis.png)
 
 This dashboard segments customers based on Recency, Frequency, and Monetary value.
-Key Segments:
+
+## Key Segments:
 •	Champions
 •	Loyal Customers
 •	At Risk Customers
 •	Lost Customers
 
-Insights:
+## Insights:
 •	Enables targeted marketing campaigns
 •	Helps improve customer retention strategies
 
