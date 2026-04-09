@@ -99,16 +99,25 @@ we can discover relationships between products and recommend items that customer
 
 ## 📊 Power BI Dashboards
 
-## 🔹 Executive Dashboard
-## Dashboard Preview
+## 🔹 Customer Analytics Executive Dashboard 
 ![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/b828d589c88936cc83dc4a275fcb0a96ec0b2c20/images/Executive%20Dashboard.png)
-## 🔹 Customer Segmentation
 
-## 🔹 Churn Dashboard
 
-## 🔹 Marketing Dashboard
+## 🔹 Customer Segmentation Matrix (RFM Analysis) 
+![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/7b9db2e0e8c7c0076fd6aa038d6214243ed2d291/images/RFM%20Analysis.png)
 
-## 🔹 Product Insights
+
+## 🔹 Churn Prediction Dashboard 
+![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/7b9db2e0e8c7c0076fd6aa038d6214243ed2d291/images/Churn%20Prediction%20Dashboard.png)
+
+
+## 🔹 Marketing Attribution Dashboard 
+![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/7b9db2e0e8c7c0076fd6aa038d6214243ed2d291/images/Marketing%20Atrribution%20Dashboard.png)
+
+
+## 🔹 Product Recommendation Dashboard 
+![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/7b9db2e0e8c7c0076fd6aa038d6214243ed2d291/images/Product%20Reccomdation%20dashboard.png)
+
 
 ## 💡 Key Insights
 Top customers generate most revenue
