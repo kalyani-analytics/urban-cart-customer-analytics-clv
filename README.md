@@ -107,13 +107,18 @@ The Executive Dashboard provides a high-level overview of business performance.
 
 ## Key Metrics:
 •	Monthly Recurring Revenue (MRR)
+
 •	Customer Acquisition Cost (CAC)
+
 •	Customer Lifetime Value (CLV)
+
 •	Retention Rate
+
 •	Churn Percentage
 
 ## Insights:
 •	Helps stakeholders quickly assess overall business health
+
 •	Identifies trends in revenue and customer retention
 
 
@@ -125,6 +130,7 @@ This dashboard segments customers based on Recency, Frequency, and Monetary valu
 
 ## Key Segments:
 •	Champions
+
 •	Loyal Customers
 •	At Risk Customers
 •	Lost Customers
