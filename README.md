@@ -101,7 +101,7 @@ we can discover relationships between products and recommend items that customer
 
 ## 🔹 Executive Dashboard
 ## Dashboard Preview
-![Executive Dashboard](images/executive_dashboard.png)
+![img alt](https://github.com/kalyani-analytics/urban-cart-customer-analytics-clv/blob/b828d589c88936cc83dc4a275fcb0a96ec0b2c20/images/Executive%20Dashboard.png)
 ## 🔹 Customer Segmentation
 
 ## 🔹 Churn Dashboard
