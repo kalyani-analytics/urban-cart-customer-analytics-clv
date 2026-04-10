@@ -251,14 +251,19 @@ Connect Power BI to PostgreSQL
 Open dashboard
 
 
-👩‍💻 Author
+## 👩‍💻 Author
 Kalyani Gunjal
+
 Aspiring Data Analyst
 
-🔗 Connect with Me
+
+## 🔗 Connect with Me
 LinkedIn: www.linkedin.com/in/contact-kalyani-gunjal
+
 GitHub: https://github.com/kalyani-analytics
 
+
 ## 🧾 Conclusion
+This project shows how data analytics can help improve customer retention, increase revenue, and support better business decisions in e-commerce.
 
 
